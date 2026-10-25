@@ -21,3 +21,7 @@ public class PortfolioRiskApp {
         System.out.println("Execution Time: " + (endTime - startTime) + " ms");
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: PortfolioRiskApp.java
+ */
