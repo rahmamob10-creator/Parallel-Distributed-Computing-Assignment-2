@@ -8,3 +8,8 @@ public class ReduceTask {
         );
     }
 }
+
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: ReduceTask.java
+ */
