@@ -13,3 +13,8 @@ public class TradeEvent {
         System.out.println("[Generic TradeEvent] Sender: " + senderId + " | Time: " + timestamp + " | Base Price: $" + basePrice);
     }
 }
+
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: TradeEvent.java
+ */
