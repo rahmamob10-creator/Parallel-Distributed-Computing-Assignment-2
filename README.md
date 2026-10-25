@@ -4,3 +4,6 @@
 - **Course:** Parallel & Distributed Computing
 - **Language:** Java (JDK 17+)
 - **VCS:** Git & GitHub
+
+## Module Summary
+
