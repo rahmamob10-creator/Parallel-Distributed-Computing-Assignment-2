@@ -17,3 +17,7 @@ public class OrderConsumer implements Runnable {
         }
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: OrderConsumer.java
+ */
