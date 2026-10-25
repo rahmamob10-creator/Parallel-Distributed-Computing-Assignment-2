@@ -32,3 +32,7 @@ public class TransferTask implements Runnable {
         }
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: TransferTask.java
+ */
