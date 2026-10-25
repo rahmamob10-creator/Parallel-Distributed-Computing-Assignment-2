@@ -34,3 +34,7 @@ public class RiskCalculationTask extends RecursiveTask<Double> {
         return leftResult + rightResult;
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: RiskCalculationTask.java
+ */
