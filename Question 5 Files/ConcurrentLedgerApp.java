@@ -18,3 +18,7 @@ public class ConcurrentLedgerApp {
         System.out.println("Final Balance " + accB.getAccountId() + ": $" + accB.getBalance());
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: ConcurrentLedgerApp.java
+ */
