@@ -33,3 +33,7 @@ public class CacheLocalityMatrixApp {
         System.out.println("Performance Advantage: " + String.format("%.2f", (colTimeMs / rowTimeMs)) + "x faster");
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: CacheLocalityMatrixApp.java
+ */
