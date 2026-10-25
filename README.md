@@ -7,3 +7,4 @@
 
 ## Module Summary
 
+- **Q1:** Polymorphism & Financial Event Dispatcher
