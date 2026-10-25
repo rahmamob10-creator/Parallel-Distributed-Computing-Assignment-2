@@ -8,3 +8,4 @@
 ## Module Summary
 
 - **Q1:** Polymorphism & Financial Event Dispatcher
+- **Q2:** Stack & Queue Network Packet Symmetry Checker
