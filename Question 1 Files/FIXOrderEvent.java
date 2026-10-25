@@ -14,3 +14,7 @@ public class FIXOrderEvent extends TradeEvent {
                            " | Base: $" + basePrice + " | Fee (0.15%): $" + exchangeFee + " | Total: $" + totalCost);
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: FIXOrderEvent.java
+ */
