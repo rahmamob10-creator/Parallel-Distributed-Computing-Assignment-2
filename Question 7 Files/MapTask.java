@@ -38,3 +38,7 @@ public class MapTask extends RecursiveTask<Map<String, Integer>> {
         return rightRes;
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: MapTask.java
+ */
