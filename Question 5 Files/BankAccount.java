@@ -18,3 +18,7 @@ public class BankAccount {
     public void withdraw(double amount) { balance -= amount; }
     public void deposit(double amount) { balance += amount; }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: BankAccount.java
+ */
