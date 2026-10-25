@@ -14,3 +14,7 @@ public class SymmetryApp {
         System.out.println("Stream 2 " + Arrays.toString(asymmetricStream) + " Is Symmetric: " + res2);
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: SymmetryApp.java
+ */
