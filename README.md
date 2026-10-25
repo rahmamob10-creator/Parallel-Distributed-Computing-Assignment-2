@@ -13,3 +13,4 @@
 - **Q4:** Fork/Join Framework Parallel Portfolio Risk Analytics (VaR)
 - **Q5:** ReentrantLock Concurrent Ledger Transfer with Deadlock Avoidance
 - **Q6:** Row-Major vs Column-Major L1/L2 Cache Locality Benchmark
+- **Q7:** Distributed Fork/Join MapReduce Word Frequency Counter
