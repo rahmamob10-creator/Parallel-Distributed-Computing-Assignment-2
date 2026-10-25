@@ -16,3 +16,7 @@ public class HFTOrderBookApp {
         System.out.println("Order Book Processing Complete.");
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: HFTOrderBookApp.java
+ */
