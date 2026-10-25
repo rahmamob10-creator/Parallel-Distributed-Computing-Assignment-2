@@ -15,3 +15,7 @@ public class MapReduceApp {
         ReduceTask.printSummary(resultMap);
     }
 }
+/**
+ * Thread-Safety Verification & Optimization
+ * Target Module: MapReduceApp.java
+ */
