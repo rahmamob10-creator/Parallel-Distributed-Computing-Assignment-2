@@ -11,3 +11,4 @@
 - **Q2:** Stack & Queue Network Packet Symmetry Checker
 - **Q3:** Multithreaded Bounded Buffer High-Frequency Order Book
 - **Q4:** Fork/Join Framework Parallel Portfolio Risk Analytics (VaR)
+- **Q5:** ReentrantLock Concurrent Ledger Transfer with Deadlock Avoidance
